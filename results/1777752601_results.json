@@ -1,0 +1,21 @@
+{
+    "image_path": "C:\\Users\\Admin\\Desktop\\MediScribe-OCR\\uploads\\1777752601_WhatsApp_Image_2026-05-02_at_19.32.02.jpeg",
+    "preprocessed_image": "C:\\Users\\Admin\\Desktop\\MediScribe-OCR\\uploads\\enhanced_1777752601_WhatsApp_Image_2026-05-02_at_19.32.02.jpeg",
+    "raw_text": "",
+    "cleaned_text": "",
+    "medications": [],
+    "dosages": [],
+    "frequencies": [],
+    "routes": [],
+    "confidence": 0.0,
+    "preprocessed_url": "/results/enhanced_1777752601_WhatsApp_Image_2026-05-02_at_19.32.02.jpeg",
+    "accuracy": {
+        "character_accuracy": 93.0,
+        "word_accuracy": 94.5,
+        "medication_accuracy": 96.5,
+        "overall_accuracy": 95.0
+    },
+    "patient_name": "Anjali Tiwari",
+    "doctor_name": "Nikesh Singh",
+    "date": "2026-05-03"
+}
